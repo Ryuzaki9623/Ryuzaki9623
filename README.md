@@ -1,4 +1,5 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austin" alt="Profile count" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/Ryuzaki9623?style=social)![GitHub User's stars](https://img.shields.io/github/stars/Ryuzaki9623?style=social)![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ryuzaki9623.repoName) <img src="https://komarev.com/ghpvc/?username=Ryuzaki9623" alt="Ryuzaki9623" />
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Kevin John </h1>
 <div align="center">
 
