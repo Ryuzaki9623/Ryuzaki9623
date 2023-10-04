@@ -1,6 +1,6 @@
-![GitHub followers](https://img.shields.io/github/followers/Ryuzaki9623?style=social)![GitHub User's stars](https://img.shields.io/github/stars/Ryuzaki9623?style=social)![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ryuzaki9623.repoName) <img src="https://komarev.com/ghpvc/?username=Ryuzaki9623" alt="Ryuzaki9623" />
+<p align="right"> <img src="https://gpvc.arturio.dev/Ryuzaki9623" alt="Profile count" /> </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I am Kevin John </h1>
+<h1 align = "center">Hello I am Kevin John 👋</h1>
 <div align="center">
 
 
@@ -9,13 +9,14 @@
 <details>
 <summary>Open profile</summary>
 
+[comment]: <> (View Counter)
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kevin+John;Welcome+to+my+profile!;Description+of+myself%3A;AI+Developer;Inquisitive+by+nature;AI+enthusiast;Confident+and+ambitious;Young+at+heart;Music+Producer;Thrill+seeker" alt="Typing SV /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Kevin John;Welcome+to+my+profile!;Description+of+myself%3A;AI+Developer;Inquisitive+by+nature;AI+enthusiast;Baseball+lover;Confident+and+ambitious;Nerd;Young+at+heart;Music+Production;Adventurous" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -31,12 +32,13 @@
  * Represents me.
  * @constructor
  * @param {string} city - Kerala, India.
- * @param {string} languagues - English, Japanese,Chinese.
+ * @param {string} languagues - English,Japanese,Chinese.
  * @param {string} jobTitle - AI Developer.
- * @param {string} specialization - Building full-fledged web applications,Machine Learning,Deep Learning,Generative Adversarial Networks,Large Language Models.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - music production,Animation.
+ * @param {string} specialization - Building full-fledged web applications,Machine Learning,Deep Learning.
+ * @param {string} interests - Generative Adversarial Networks,Large Language Models.
+ * @param {string} hobbies - Music Production.
  * @param {string} education - St Thomas Institute For Science And Technology.
+ * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
  * @throws {Punch} To any and all bugs.
@@ -57,17 +59,14 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" /> 
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -83,6 +82,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     </kbd>
     <br>
@@ -91,9 +91,9 @@
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
+      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     </kbd>
     <kbd>
@@ -103,7 +103,13 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+    </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -112,9 +118,15 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   </kbd>
+     <kbd>
+      <kbd>Operating Systems</kbd>
+      <br>
+      <br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    </kbd>
   </p>
 </div>
 </details>
@@ -130,7 +142,10 @@
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
+  <summary>Free hit</summary>
+  <br>
+  <small><i>refresh page if the joke was ineffective XD.</i></small>
+  <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
 </details>
 
@@ -144,7 +159,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:johnk4590@gmail.com">contact me by email</a>.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="johnk4590@gmail.com">contact me by email</a>.
 
   </td>
   <td width="50%" valign="top">
@@ -169,6 +184,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 <div align=center>
   <a href="https://www.linkedin.com/in/kevin-john-9ba233256/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:johnk4590@gmail.com?subject=Hi%20Kevin%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  
+  <a href="mailto:johnk4590@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
+
+-----
