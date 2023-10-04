@@ -1,5 +1,3 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/Ryuzaki9623" alt="Profile count" /> </p>
-
 <h1 align = "center">Hello I am Kevin John 👋</h1>
 <div align="center">
 
