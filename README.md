@@ -31,11 +31,11 @@
  * Represents me.
  * @constructor
  * @param {string} city - Kerala, India.
- * @param {string} languagues - English, Japanese.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
+ * @param {string} languagues - English, Japanese,Chinese.
+ * @param {string} jobTitle - AI Developer.
+ * @param {string} specialization - Building full-fledged web applications,Machine Learning,Deep Learning,Generative Adversarial Networks,Large Language Models.
  * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - music production.
+ * @param {string} hobbies - music production,Animation.
  * @param {string} education - St Thomas Institute For Science And Technology.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
