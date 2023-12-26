@@ -57,7 +57,9 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> 
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -89,7 +91,7 @@
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+      <img width="30px" src="https://avatars.githubusercontent.com/u/54143604?s=200&v=4" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -108,6 +110,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -124,6 +127,11 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Al-logo.svg/249px-Al-logo.svg.png?20230601235028" />
+    </kbd>
+    <kbd>
+      <kbd>XR Development</kbd><br><br>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     </kbd>
   </p>
 </div>
