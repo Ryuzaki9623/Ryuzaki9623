@@ -62,7 +62,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
     </kbd>
     <kbd>
-      <kbd>Back-end</kbd>
+      <kbd>Frameworks</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -97,7 +97,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     </kbd>
     <kbd>
-      <kbd>System, Networking & Deployment</kbd>
+      <kbd>Networking & Deployment</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
